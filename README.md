@@ -1,6 +1,10 @@
 # SQL
 SQL Beginner
+
+
 1. Data and Tables
+
+
 2. SELECT
 3. DELETE and UPDATE
 4. Smart Table Design
